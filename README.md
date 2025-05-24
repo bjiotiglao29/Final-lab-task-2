@@ -34,7 +34,7 @@ Many-to-One with assignment: Each submission is for one assignment.
 This models a Many-to-Many relationship between students and assignments, with version tracking multiple submissions.
 
 # Screenshots
-- Student Query Statemen
+# Student Query Statemen
 
 ![a](https://github.com/user-attachments/assets/d15e368e-82b0-40ae-bf4f-9c9b57e76048)
 - Assignment Query Statement
